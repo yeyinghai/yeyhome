@@ -1,37 +1,7 @@
 ## 欢迎来到代东海的简历页面
 
-You can use the [editor on GitHub](https://github.com/yeyinghai/yeyhome.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yeyinghai/yeyhome.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+自我介绍：90后，从事弱电安防智能化工程，包含监控系统，楼宇对讲系统，LED系统，广播音箱系统，停车场系统，楼宇对讲系统。喜欢分享捣鼓有趣的代码，熟悉HTML、CSS、PHP、C语言技术，熟悉wordpress、 Discuz!论坛社区产品。 [我的网站](https://www.yeyhome.com/)
+### 工作单位介绍
+洛阳市众云互联智能科技有限公司成立于2016年2月4日，洛阳众云互联智能科技有限公司是一家从事计算机，智控专业技术服务，智能化系统安全防范工程，智能家居系统，智能控制系统，智能亮化系统研发销售服务的公司。公司由一批富有朝气和创造力的技术人员和安防专家、负有责任心的工程施工及维护人员共同组成，致力于与客户建立长期的合作关系，提供专业的智能化系统咨询，设计，项目实施以及售后维保服务。为客户提供更智能、更可靠、更先进的系统化应用是我们不变的初心和追求。
+公司地址: 洛阳市洛龙区泉舜186B区619室 公司邮箱: ddh6126459@126.com
+公司电话: 0379-65188668 公司传真: 0731-12345678 0731-14785236 
