@@ -20,7 +20,7 @@
  - 专科/安阳工学院电子计算机系 
  - 工作年限：8年
  - 微博：[@夜影house](http://weibo.com/yeyhouse)
- - 技术博客：https://www.yeyhome.com/ 
+ - 技术博客：[@夜影小窝](https://www.yeyhome.com/)
  - Github：https://yeyinghai.github.io/yeyhome.Github.io/
 
 ---
